@@ -21,7 +21,7 @@ export default function Newsletter() {
       </div>
 
       <img
-        src="/assets/quizykoo-logo.png"
+        src="assets/quizykoo-logo.png"
         alt=""
         className="bob"
         style={{

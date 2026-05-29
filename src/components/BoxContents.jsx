@@ -33,7 +33,7 @@ export default function BoxContents({ onAdd }) {
             filter: 'blur(40px)',
           }}/>
           <img
-            src="/assets/social-skills-box.jpg"
+            src="assets/social-skills-box.jpg"
             alt="Social Skills Box contents"
             className="bob-slow"
             style={{

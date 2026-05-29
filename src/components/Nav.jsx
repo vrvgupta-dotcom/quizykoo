@@ -18,7 +18,7 @@ export default function Nav({ cartCount, onOpenCart }) {
         padding: '12px 28px',
       }}>
         <a href="#" style={{ display: 'flex', alignItems: 'center', gap: 10, textDecoration: 'none' }}>
-          <img src="/assets/quizykoo-logo.png" alt="Quizykoo" style={{ height: 56 }} />
+          <img src="assets/quizykoo-logo.png" alt="Quizykoo" style={{ height: 56 }} />
         </a>
         <nav style={{ display: 'flex', gap: 28, alignItems: 'center' }} className="nav-links">
           {['Shop', 'The 5 Books', 'How It Works', 'Reviews', 'About'].map(l => (

@@ -27,7 +27,7 @@ export default function App() {
   const addToCart = useCallback((id) => {
     let item;
     if (id === 'box') {
-      item = { id: 'box', name: 'Quizykoo Social Skills Box', price: 1099, image: '/assets/social-skills-box.jpg' };
+      item = { id: 'box', name: 'Quizykoo Social Skills Box', price: 1099, image: 'assets/social-skills-box.jpg' };
     } else {
       const b = BOOKS.find(x => x.id === id);
       if (!b) return;
@@ -69,7 +69,7 @@ export default function App() {
 
       <div className="mobile-cta">
         <img
-          src="/assets/social-skills-box.jpg"
+          src="assets/social-skills-box.jpg"
           alt=""
           style={{ width: 50, height: 50, borderRadius: 10, objectFit: 'cover', border: '2px solid var(--royal)' }}
         />

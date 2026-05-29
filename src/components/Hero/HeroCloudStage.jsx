@@ -76,7 +76,7 @@ export default function HeroCloudStage({ onShop, onExplore }) {
           </div>
 
           <img
-            src="/assets/social-skills-box.jpg"
+            src="assets/social-skills-box.jpg"
             alt="Quizykoo Social Skills Box"
             style={{
               width: 'min(820px, 92%)',
@@ -89,7 +89,7 @@ export default function HeroCloudStage({ onShop, onExplore }) {
           />
 
           <img
-            src="/assets/quizykoo-logo.png"
+            src="assets/quizykoo-logo.png"
             alt="Quizykoo tiger"
             className="wiggle"
             style={{

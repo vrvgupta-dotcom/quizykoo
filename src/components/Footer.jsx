@@ -33,7 +33,7 @@ export default function Footer() {
           alignItems: 'flex-start',
         }} className="footer-grid">
           <div>
-            <img src="/assets/quizykoo-logo.png" alt="Quizykoo" style={{ height: 80 }}/>
+            <img src="assets/quizykoo-logo.png" alt="Quizykoo" style={{ height: 80 }}/>
             <p style={{ marginTop: 14, opacity: .78, maxWidth: 320, fontWeight: 500, fontSize: 15 }}>
               Story-led life skills for kids 5–8. Made in India, loved everywhere.
             </p>

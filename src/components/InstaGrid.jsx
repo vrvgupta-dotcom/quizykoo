@@ -1,12 +1,12 @@
 import React from 'react';
 
 const tiles = [
-  { src: '/assets/book-manners.jpg', tag: '#manners' },
-  { src: '/assets/book-sharing.jpg', tag: '#sharing' },
-  { src: '/assets/social-skills-box.jpg', tag: '#newbox' },
-  { src: '/assets/book-friendship.jpg', tag: '#teamwork' },
-  { src: '/assets/book-listening.jpg', tag: '#listen' },
-  { src: '/assets/book-respect.jpg', tag: '#kindness' },
+  { src: 'assets/book-manners.jpg', tag: '#manners' },
+  { src: 'assets/book-sharing.jpg', tag: '#sharing' },
+  { src: 'assets/social-skills-box.jpg', tag: '#newbox' },
+  { src: 'assets/book-friendship.jpg', tag: '#teamwork' },
+  { src: 'assets/book-listening.jpg', tag: '#listen' },
+  { src: 'assets/book-respect.jpg', tag: '#kindness' },
 ];
 
 export default function InstaGrid() {

@@ -2,7 +2,7 @@ export const BOOKS = [
   {
     id: 'manners',
     title: 'Good Manners & Politeness',
-    cover: '/assets/book-manners.jpg',
+    cover: 'assets/book-manners.jpg',
     skill: 'Please · Thank You · Sorry',
     color: 'var(--yellow-2)',
     bg: '#FFF4D1',
@@ -13,7 +13,7 @@ export const BOOKS = [
   {
     id: 'sharing',
     title: 'Sharing & Caring',
-    cover: '/assets/book-sharing.jpg',
+    cover: 'assets/book-sharing.jpg',
     skill: 'Share · Care · Be Kind',
     color: 'var(--coral)',
     bg: '#FFE3EC',
@@ -24,7 +24,7 @@ export const BOOKS = [
   {
     id: 'listening',
     title: 'Listening & Communication',
-    cover: '/assets/book-listening.jpg',
+    cover: 'assets/book-listening.jpg',
     skill: 'Listen · Understand · Speak',
     color: 'var(--sky)',
     bg: '#E3F4FF',
@@ -35,7 +35,7 @@ export const BOOKS = [
   {
     id: 'friendship',
     title: 'Friendship & Teamwork',
-    cover: '/assets/book-friendship.jpg',
+    cover: 'assets/book-friendship.jpg',
     skill: 'Trust · Respect · Help',
     color: 'var(--purple)',
     bg: '#EFE0FF',
@@ -46,7 +46,7 @@ export const BOOKS = [
   {
     id: 'respect',
     title: 'Respect & Kindness',
-    cover: '/assets/book-respect.jpg',
+    cover: 'assets/book-respect.jpg',
     skill: 'Respect · Kindness · Positivity',
     color: 'var(--green)',
     bg: '#DDF6DC',

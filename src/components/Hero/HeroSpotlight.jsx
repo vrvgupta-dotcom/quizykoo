@@ -56,7 +56,7 @@ export default function HeroSpotlight({ onShop, onExplore }) {
                 filter: 'blur(30px)',
               }}/>
               <img
-                src="/assets/social-skills-box.jpg"
+                src="assets/social-skills-box.jpg"
                 alt="Social Skills Box"
                 className="bob-slow"
                 style={{
@@ -88,7 +88,7 @@ export default function HeroSpotlight({ onShop, onExplore }) {
           </div>
 
           <img
-            src="/assets/quizykoo-logo.png"
+            src="assets/quizykoo-logo.png"
             alt=""
             className="wiggle"
             style={{

@@ -2,11 +2,11 @@ import React, { useMemo } from 'react';
 import { HeroBadges, HeroCTAs } from './shared';
 
 const books = [
-  { src: '/assets/book-manners.jpg', rot: -14, x: -340, y: 40, z: 1 },
-  { src: '/assets/book-sharing.jpg', rot: -7, x: -180, y: 10, z: 2 },
-  { src: '/assets/book-listening.jpg', rot: 0, x: 0, y: 0, z: 3 },
-  { src: '/assets/book-friendship.jpg', rot: 7, x: 180, y: 10, z: 2 },
-  { src: '/assets/book-respect.jpg', rot: 14, x: 340, y: 40, z: 1 },
+  { src: 'assets/book-manners.jpg', rot: -14, x: -340, y: 40, z: 1 },
+  { src: 'assets/book-sharing.jpg', rot: -7, x: -180, y: 10, z: 2 },
+  { src: 'assets/book-listening.jpg', rot: 0, x: 0, y: 0, z: 3 },
+  { src: 'assets/book-friendship.jpg', rot: 7, x: 180, y: 10, z: 2 },
+  { src: 'assets/book-respect.jpg', rot: 14, x: 340, y: 40, z: 1 },
 ];
 
 function ConfettiBackdrop() {
@@ -107,7 +107,7 @@ export default function HeroPlayground({ onShop, onExplore }) {
           ))}
 
           <img
-            src="/assets/social-skills-box.jpg"
+            src="assets/social-skills-box.jpg"
             alt="Social Skills Box"
             style={{
               position: 'relative',
@@ -130,7 +130,7 @@ export default function HeroPlayground({ onShop, onExplore }) {
           </div>
 
           <img
-            src="/assets/quizykoo-logo.png"
+            src="assets/quizykoo-logo.png"
             alt=""
             className="bob"
             style={{

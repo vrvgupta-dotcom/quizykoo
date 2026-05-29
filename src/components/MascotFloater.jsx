@@ -73,7 +73,7 @@ export default function MascotFloater() {
         aria-label="Quizykoo mascot"
       >
         <img
-          src="/assets/quizykoo-logo.png"
+          src="assets/quizykoo-logo.png"
           alt=""
           style={{ width: '140%', height: '140%', objectFit: 'cover', objectPosition: 'center 18%', transform: 'translate(-14%, -10%)' }}
         />
